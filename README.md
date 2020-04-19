@@ -1,2 +1,2 @@
-# pytorch_mnist
+# pytorch implementation Notebooks
 learning pytorch
